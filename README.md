@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @raelovejoy
-- 👀 I’m interested in ... everything
-- 🌱 I’m currently learning ... everything
-- 💞️ I’m looking to collaborate on ... everything
-- 📫 How to reach me ... https://raelovejoy.com/contact
+👋 Hi.
 
 <!---
 raelovejoy/raelovejoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
