@@ -1,4 +1,4 @@
-👋 Hi. I like to expiriment with tech. I'm also at [Codeburg](https://codeberg.org/rae).
+👋 Hi. I like to expiriment with tech and media. I'm also at [Codeburg](https://codeberg.org/rae).
 
 <!---
 raelovejoy/raelovejoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
