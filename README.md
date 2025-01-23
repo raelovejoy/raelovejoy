@@ -1,4 +1,4 @@
-👋 Hi. I like to explore and experiment with tech, philosophy, and art.
+👋 Hi. I experiment with tech, philosophy, and art. 
 
 <!---
 raelovejoy/raelovejoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
