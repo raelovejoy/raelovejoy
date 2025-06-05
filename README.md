@@ -22,8 +22,8 @@ from Linux desktops to decentralized homelabs, from ideas to working systems.
 
 ## 🛠️ What I'm Building, Tinkering, or Dreaming About:
 
-- 🌐 **Self-hosted ecosystems** (homelab, containers, decentralized services)
-- 🐧 **Linux systems**: Bluefin • Silverblue • Fedora • Proxmox
+- 🌐 **Self-hosted ecosystems** (homelab/computer garden, decentralized services)
+- 🐧 **Linux systems**: Bluefin • Debian • Fedora • Proxmox
 - 🔄 **Resilient, self-healing infrastructures**
 - ✍️ **Documenting insights** to leave a trail for others (and myself)
 - 🌱 **Open source** everything — because knowledge grows when it’s shared
@@ -32,9 +32,9 @@ from Linux desktops to decentralized homelabs, from ideas to working systems.
 
 ## 🎨 Current Experiments
 
-- ✨ Writing philosophy for the future of open systems
+- ✨ Writing philosophy about the future of open systems
 - 🛠️ Prototyping frameworks for decentralized, user-sovereign technology
-- 🌿 Designing solarpunk-inspired systems that prioritize resilience, community, and sustainability
+- 🌿 Designing solarpunk-inspired [eco]systems that prioritize resilience, community, and sustainability
 - 🧠 Developing systems thinking models that embed ethics and evolutionary growth
 - 🔍 Investigating how technology can amplify curiosity and autonomy, not control
 - 🚀 Optimizing open-source tools to empower creative sovereignty and self-hosted ecosystems
