@@ -18,6 +18,7 @@ From Linux desktops to solarpunk futures, from notes to networks, from root to r
 ## 🌌 Philosophy
 
 **Radiate love. Radiate joy. Recurse.**  
+*Love is the signal. Joy is the resonance. Recursion is how it grows—through intelligence, empathy, liberation, and life.*  
 (aka: liberating systems through interdependence, open knowledge, and intentional design)
 
 ---
