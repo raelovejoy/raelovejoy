@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 B10
 
 I’m a systems thinker, generalist, and lifelong signal-tuner.  
 Drawn to the patterns beneath complexity—where emotion meets infrastructure, and meaning meets motion.
@@ -22,7 +22,7 @@ From Linux desktops to solarpunk futures, from notes to networks, from root to r
 
 ---
 
-## 🛠️ What I'm Building, Tinkering, or Dreaming About:
+## 🛠️ What I'm building, tinkering, or dreaming about:
 
 - 🌐 **Self-hosted ecosystems**: homelabs, decentralized systems, resilient networks  
 - 🐧 **Linux platforms**: Fedora/Bluefin • Debian • Proxmox  
@@ -32,7 +32,7 @@ From Linux desktops to solarpunk futures, from notes to networks, from root to r
 
 ---
 
-## 🎨 Current Experiments
+## 🎨 Current experiments
 
 - ✍️ Writing zines, manifestos & interactive philosophy  
 - 🔍 Exploring how technology amplifies **curiosity**, **consent**, and **connection**, not control  
@@ -42,7 +42,7 @@ From Linux desktops to solarpunk futures, from notes to networks, from root to r
 
 ---
 
-## 📚 Current Stack & Signals
+## 📚 Current stack & signals
 
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
@@ -52,14 +52,14 @@ From Linux desktops to solarpunk futures, from notes to networks, from root to r
 
 ---
 
-## 📈 GitHub Signals
+## 📈 GitHub signals
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raelovejoy&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raelovejoy&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌟 Let's Connect
+## 🌟 Let's connect
 
 - ✉️ Open an issue, send a signal, or start a conversation.  
 - 🌱 This is for builders of better systems, lovers of open loops, and explorers of what’s possible.
