@@ -89,6 +89,7 @@ Not to predict the future—but to prototype better patterns.
 ---
 
 ## 🌟 Let's connect
+✉️ Open an issue, send a signal, or start a conversation.  
 
-- ✉️ Open an issue, send a signal, or start a conversation.  
+- [Get in touch](https://raearea.net/contact)
 - <a rel="me" href="https://kolektiva.social/@rae">Mastodon</a>
