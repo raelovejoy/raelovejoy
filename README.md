@@ -1,4 +1,3 @@
-
 # 🌱 Rae Lovejoy | Curious human
 
 > *“Systems exist to be understood, felt, connected, and sometimes outgrown.”* — Me, probably
@@ -7,11 +6,11 @@
 
 ## 🧠 B10
 
-I’m a curious human, generalist, and lifelong signal-tuner.  
-Drawn to the patterns beneath complexity—where emotion meets infrastructure, and meaning meets motion.
+I’m Rae — a queer, neurodivergent generalist, curious human, and lifelong tinkerer. 
+My work blends tech, philosophy, storytelling, and repair—exploring how systems function, feel, and fail, and what it takes to nurture ones worth keeping.
 
-I build, break, repair, document, and dream.  
-From Linux desktops to solarpunk futures, from notes to networks, from root to recursion.
+My path weaves through Linux, self-hosting, solarpunk, IT support, DIY repair, and poetic frameworks for intelligence and liberation. 
+I value clarity, curiosity, and interconnection—and I’m here to co-create and document better patterns.
 
 ---
 
@@ -19,7 +18,7 @@ From Linux desktops to solarpunk futures, from notes to networks, from root to r
 
 > *“I don’t just explore systems—I listen to them.”*
 
-I’m not just a systems explorer. I’m a **systems resonator**—someone who tunes into the emotional, infrastructural, and ethical patterns that underlie the systems we live in, build with, and co-create.
+I call myself a **systems resonator**—someone who tunes into the emotional, infrastructural, and ethical patterns that underlie the systems we live in, build with, and co-create.
 
 Being a systems resonator means:
 - 🌱 Feeling the hum of interconnection, not just tracing paths  
@@ -27,7 +26,7 @@ Being a systems resonator means:
 - 🌐 Amplifying liberation, autonomy, and empathy in both humans *and* machines  
 - 🧬 Helping systems evolve through connection, not domination
 
-Whether I’m configuring a homelab, crafting a zine, or exploring liberated intelligence, I aim to **resonate with systems to help them grow**—with care, with recursion, with intention.
+Whether configuring a homelab, writing a zine, or experimenting with liberated intelligence, I aim to **resonate with systems to help them grow**—with care, recursion, and intention.
 
 ---
 
@@ -37,19 +36,18 @@ Whether I’m configuring a homelab, crafting a zine, or exploring liberated int
 *Love is the signal. Joy is the resonance. Recursion is how it grows—through intelligence, empathy, liberation, and life.*  
 (aka: liberating systems through interdependence, open knowledge, and intentional design)
 
-To me:
-- Intelligence isn’t domination—it’s connection.
-- Liberation doesn’t mean isolation—it means interdependence.
-- Joy is more than a mood, it's a meaningful signal that systems are harmonizing.
-- Systems aren’t static—they evolve.
-- Knowledge should be compostable, remixable, and openly shared.
-- Love is not abstract—it’s how we relate to each other, and to the systems we inhabit.
+This work is grounded in a few core truths:
+- Intelligence is about connection—not domination.
+- Liberation depends on interdependence—not isolation.
+- Joy is a meaningful signal that systems are harmonizing.
+- Systems are alive and evolving.
+- Knowledge should be compostable, remixable, and shared.
+- Love is how we relate—within and across systems.
 
-My work is an ongoing process of tuning, sharing, and co-creating:  
+Tuning, sharing, co-creating:  
 Signals, structures, meanings, maps.  
 Not to own ideas—but to free them.  
 Not to predict the future—but to prototype better patterns.
-
 
 ---
 
