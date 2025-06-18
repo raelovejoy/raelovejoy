@@ -7,7 +7,7 @@
 
 ## 🧠 B10
 
-I’m a curious human, systems explorer, generalist, and lifelong signal-tuner.  
+I’m a curious human, generalist, and lifelong signal-tuner.  
 Drawn to the patterns beneath complexity—where emotion meets infrastructure, and meaning meets motion.
 
 I build, break, repair, document, and dream.  
