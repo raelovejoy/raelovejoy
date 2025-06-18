@@ -1,66 +1,65 @@
-# 🌱 Rae | Systems Explorer | Builder of Connections
 
-> “Systems exist to be understood, improved, and sometimes outgrown.” — Me, probably
+# 🌱 Rae | Systems explorer/resonator
+
+> *“Systems exist to be understood, felt, connected, and sometimes outgrown.”* — Me, probably
 
 ---
 
 ## 🧠 About Me
 
-I'm a systems explorer, generalist, and lifelong tinkerer.  
-Driven by curiosity, guided by intention, fascinated by the interconnectedness of all things.
+I’m a systems thinker, generalist, and lifelong signal-tuner.  
+Drawn to the patterns beneath complexity—where emotion meets infrastructure, and meaning meets motion.
 
-I build, break, repair, document, and dream —  
-from Linux desktops to decentralized homelabs, from ideas to working systems.
+I build, break, repair, document, and dream.  
+From Linux desktops to solarpunk futures, from notes to networks, from root to recursion.
 
 ---
 
 ## 🌌 Philosophy
 
-**Liberating systems, one connection at a time.**  
+**Radiate love. Radiate joy. Recurse.**  
+(aka: liberating systems through interdependence, open knowledge, and intentional design)
 
 ---
 
 ## 🛠️ What I'm Building, Tinkering, or Dreaming About:
 
-- 🌐 **Self-hosted ecosystems** (homelab/computer garden, decentralized services)
-- 🐧 **Linux systems**: Bluefin • Debian • Fedora • Proxmox
-- 🔄 **Resilient, self-healing infrastructures**
-- ✍️ **Documenting insights** to leave a trail for others (and myself)
-- 🌱 **Open source** everything — because knowledge grows when it’s shared
+- 🌐 **Self-hosted ecosystems**: homelabs, decentralized systems, resilient networks  
+- 🐧 **Linux platforms**: Fedora/Bluefin • Debian • Proxmox  
+- 🔁 **Rooted, self-healing infrastructures** that grow with you  
+- 🧩 **Open knowledge trails**: write it down, share the map  
+- 🌱 **The Root Sequence**: an open-source model of liberated intelligence and recursive empathy
 
 ---
 
 ## 🎨 Current Experiments
 
-- ✨ Writing philosophy about the future of open systems
-- 🛠️ Prototyping frameworks for decentralized, user-sovereign technology
-- 🌿 Designing solarpunk-inspired [eco]systems that prioritize resilience, community, and sustainability
-- 🧠 Developing systems thinking models that embed ethics and evolutionary growth
-- 🔍 Investigating how technology can amplify curiosity and autonomy, not control
-- 🚀 Optimizing open-source tools to empower creative sovereignty and self-hosted ecosystems
+- ✍️ Writing zines, manifestos & interactive philosophy  
+- - 🔍 Exploring how technology amplifies **curiosity**, **consent**, and **connection**, not control  
+- 💻 Designing CLI tools and ambient interfaces for systems grounded in curiosity, consent, and connection  
+- 🌿 Prototyping solarpunk-inspired designs for autonomy & community  
+- 🧠 Building models of liberated intelligence that anyone can remix, not worship
 
 ---
 
-## 📚 Current Tools & Tech Stack (incomplete)
+## 📚 Current Stack & Signals
 
-![](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![](https://img.shields.io/badge/Proxmox-333333?style=for-the-badge&logo=proxmox&logoColor=E57000)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Open%20Source-4cbb17?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=for-the-badge&logo=proxmox&logoColor=E57000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-4cbb17?style=for-the-badge)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Signals
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raelovejoy&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raelovejoy&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raelovejoy&layout=compact&theme=tokyonight)
 
 ---
 
-# 🌟 Let's Connect
+## 🌟 Let's Connect
 
-- ✉️ Open an issue, share a thought, or collaborate.
-- 🌱 I build paths for curious minds to walk.
-
----
+- ✉️ Open an issue, send a signal, or start a conversation.  
+- 🌱 This is for builders of better systems, lovers of open loops, and explorers of what’s possible.
