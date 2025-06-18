@@ -1,5 +1,5 @@
 
-# 🌱 Rae | Curious human
+# 🌱 Rae Lovejoy | Curious human
 
 > *“Systems exist to be understood, felt, connected, and sometimes outgrown.”* — Me, probably
 
