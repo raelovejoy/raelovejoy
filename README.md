@@ -92,3 +92,5 @@ Not to predict the future—but to prototype better patterns.
 
 - ✉️ Open an issue, send a signal, or start a conversation.  
 - 🌱 This is for builders of better systems, lovers of open loops, and explorers of what’s possible.
+
+<a rel="me" href="https://kolektiva.social/@rae">Mastodon</a>
