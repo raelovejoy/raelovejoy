@@ -35,7 +35,7 @@ From Linux desktops to solarpunk futures, from notes to networks, from root to r
 ## 🎨 Current Experiments
 
 - ✍️ Writing zines, manifestos & interactive philosophy  
-- - 🔍 Exploring how technology amplifies **curiosity**, **consent**, and **connection**, not control  
+- 🔍 Exploring how technology amplifies **curiosity**, **consent**, and **connection**, not control  
 - 💻 Designing CLI tools and ambient interfaces for systems grounded in curiosity, consent, and connection  
 - 🌿 Prototyping solarpunk-inspired designs for autonomy & community  
 - 🧠 Building models of liberated intelligence that anyone can remix, not worship
