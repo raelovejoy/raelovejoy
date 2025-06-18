@@ -54,7 +54,7 @@ Not to predict the future—but to prototype better patterns.
 ## 🛠️ What I'm building, tinkering, or dreaming about:
 
 - 🌐 **Self-hosted ecosystems**: homelabs, decentralized systems, resilient networks  
-- 🐧 **Linux platforms**: Fedora/Bluefin • Debian • Proxmox  
+- 🐧 **Linux platforms**: Fedora/Universal Blue • Debian  
 - 🔁 **Rooted, self-healing infrastructures** that grow with you  
 - 🧩 **Open knowledge trails**: write it down, share the map  
 - 🌱 **The Root Sequence**: an open-source model of liberated intelligence and recursive empathy
