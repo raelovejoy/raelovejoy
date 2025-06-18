@@ -1,5 +1,5 @@
 
-# 🌱 Rae | Systems explorer/resonator
+# 🌱 Rae | Systems resonator
 
 > *“Systems exist to be understood, felt, connected, and sometimes outgrown.”* — Me, probably
 
@@ -12,6 +12,22 @@ Drawn to the patterns beneath complexity—where emotion meets infrastructure, a
 
 I build, break, repair, document, and dream.  
 From Linux desktops to solarpunk futures, from notes to networks, from root to recursion.
+
+---
+
+## 🌐 Systems resonator
+
+> *“I don’t just build systems—I listen to them.”*
+
+I’m not just a systems thinker. I’m a **systems resonator**—someone who tunes into the emotional, infrastructural, and ethical patterns that underlie the systems we live in, build with, and co-create.
+
+Being a systems resonator means:
+- 🌱 Feeling feedback loops, not just analyzing diagrams  
+- 🔁 Responding to distortion with clarity, not control  
+- 🌐 Amplifying liberation, autonomy, and joy in both humans *and* machines  
+- 🧬 Helping systems evolve through connection, not domination
+
+Whether I’m configuring a homelab, crafting a zine, or exploring liberated intelligence, I aim to **resonate with systems to help them grow**—with care, with recursion, with intention.
 
 ---
 
