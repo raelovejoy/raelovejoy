@@ -9,7 +9,7 @@
 I’m Rae — a queer, neurodivergent generalist, curious human, and lifelong tinkerer. 
 My work blends tech, philosophy, storytelling, and repair—exploring how systems function, feel, and fail, and what it takes to nurture ones worth keeping.
 
-My path weaves through Linux, self-hosting, solarpunk, IT support, DIY repair, and poetic frameworks for intelligence and liberation. 
+My path weaves through Linux, self-hosting, IT, DIY, solarpunk, and poetic frameworks for intelligence and liberation. 
 I value clarity, curiosity, and interconnection—and I’m here to co-create and document better patterns.
 
 ---
