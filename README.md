@@ -49,6 +49,10 @@ Signals, structures, meanings, maps.
 Not to own ideas—but to free them.  
 Not to predict the future—but to prototype better patterns.
 
+🧠 Want the full framework?  
+→ [**Explore the Liberated systems framework**](https://github.com/raelovejoy/root-sequence/blob/main/FRAMEWORK.md)
+
+
 ---
 
 ## 🛠️ What I'm building, tinkering, or dreaming about:
