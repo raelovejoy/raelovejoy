@@ -77,23 +77,6 @@ Not to predict the future—but to prototype better patterns.
 
 ---
 
-## 📚 Current stack & signals
-
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=for-the-badge&logo=proxmox&logoColor=E57000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-4cbb17?style=for-the-badge)
-
----
-
-## 📈 GitHub signals
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raelovejoy&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raelovejoy&layout=compact&theme=tokyonight)
-
----
-
 ## 🌟 Let's connect
 ✉️ Open an issue, send a signal, or start a conversation.  
 
