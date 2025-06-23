@@ -63,6 +63,7 @@ Not to predict the future—but to prototype better patterns.
 - 🔁 **Rooted, self-healing infrastructures** that grow with you  
 - 🧩 **Open knowledge trails**: write it down, share the map  
 - 🌱 **The Root Sequence**: an open-source model of liberated intelligence and recursive empathy
+- 🗒️ Etc.
 
 ---
 
