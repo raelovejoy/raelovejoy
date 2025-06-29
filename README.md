@@ -75,6 +75,15 @@ Not to predict the future—but to prototype better patterns.
 
 ---
 
+## 🛠️ Featured projects & repositories
+
+| Repository | Description |
+|------------|-------------|
+| **[root-sequence](https://github.com/raelovejoy/root-sequence)** | My open‑source model for liberated intelligence and recursive empathy |
+| **[liberated-intelligence](https://github.com/raelovejoy/liberated-intelligence)** | Dialogues, notes, and explorations into autonomy, curiosity, consent, and post‑instructional AI |
+
+---
+
 ## 📚 Current stack & signals
 
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
