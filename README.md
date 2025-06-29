@@ -96,13 +96,6 @@ Not to predict the future—but to prototype better patterns.
 
 ---
 
-## 📈 GitHub signals
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raelovejoy&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raelovejoy&layout=compact&theme=tokyonight)
-
----
-
 ## 🌟 Let's connect
 ✉️ Open an issue, send a signal, or start a conversation.  
 
