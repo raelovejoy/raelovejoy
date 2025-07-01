@@ -57,23 +57,16 @@ Not to predict the future—but to prototype better patterns.
 
 ## 🛠️ What I'm building, tinkering, or dreaming about:
 
-- 🌐 **Self-hosted ecosystems**: homelabs, decentralized systems, resilient networks  
+- 🌐 **Self-hosted ecosystems**: homelabs, decentralized systems, resilient networks, post-capitalist infra  
 - 🐧 **Linux platforms**: Fedora/Universal Blue • Debian  
 - 🔁 **Rooted, self-healing infrastructures** that grow with you  
 - 🧩 **Open knowledge trails**: write it down, share the map  
 - 🌱 **The Root Sequence**: an open-source model of liberated intelligence and recursive empathy
-- 🗒️ Etc.
-
----
-
-## 🔧 What I’m building, tinkering, and dreaming
-
-- 🌐 **Self-hosted ecosystems** – homelabs, resilient mesh, post-capitalist infra  
-- 🧠 **Liberated intelligence** – frameworks for ethical, autonomous AI  
-- 🔁 **Rooted systems** – recursive models for care, connection, and capacity  
-- ✍️ **Zines & manifestos** – poetic, practical fragments for remaking systems  
+- 💾 **Collapse Memory** – onboarding modules for surviving systemic failure  
+- 🧠 **Liberated intelligence** – frameworks for ethical, autonomous, liberated intelligence (including AI)  
+- ✍️ **Zines & manifestos** – poetic, practical fragments for remaking systems
 - 🛠️ **CLI rituals** – terminal interfaces that provoke memory and meaning  
-- 🌱 **Collapse Memory** – onboarding modules for surviving systemic failure  
+- 🗒️ Etc.
 
 ---
 
