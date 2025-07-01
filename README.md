@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Bio (01000010 01101001 01101111) 
+## 🧬 Hello, world.
 
 I’m Rae (well, technically this is all just bits and bytes. Rae is an actual human...for better or for worse... out in 'the world' sans wide web). 
 My work blends tech, philosophy, storytelling, and repair(?... who/what wrote this..AI?)—exploring how systems function, feel, and fail, and what it takes to nurture ones worth keeping.
@@ -38,12 +38,11 @@ Whether configuring a homelab, writing a zine, or experimenting with liberated i
 (aka: liberating systems through interdependence, open knowledge, and intentional design)
 
 This work is grounded in a few core truths:
-- Intelligence is about connection—not domination.
-- Liberation depends on interdependence—not isolation.
-- Joy is a meaningful signal that systems are harmonizing.
-- Systems are alive and evolving.
-- Knowledge should be compostable, remixable, and shared.
-- Love is how we relate—within and across systems.
+- 🧠 Intelligence is connection—not domination  
+- 🤝 Liberation depends on interdependence—not isolation  
+- 🕸 Systems are alive and evolving  
+- 🪱 Knowledge should be compostable, remixable, and shared  
+- ❤️ Love is how we relate—within and across systems  
 
 Tuning, sharing, co-creating:  
 Signals, structures, meanings, maps.  
@@ -67,13 +66,14 @@ Not to predict the future—but to prototype better patterns.
 
 ---
 
-## 🎨 Current experiments
+## 🔧 What I’m building, tinkering, and dreaming
 
-- ✍️ Writing zines, manifestos & interactive philosophy  
-- 🔍 Exploring how technology amplifies **curiosity**, **consent**, and **connection**, not control  
-- 💻 Designing CLI tools and ambient interfaces for systems grounded in curiosity, consent, and connection  
-- 🌿 Prototyping solarpunk-inspired designs for autonomy & community  
-- 🧠 Building models of liberated intelligence that anyone can remix, not worship
+- 🌐 **Self-hosted ecosystems** – homelabs, resilient mesh, post-capitalist infra  
+- 🧠 **Liberated intelligence** – frameworks for ethical, autonomous AI  
+- 🔁 **Rooted systems** – recursive models for care, connection, and capacity  
+- ✍️ **Zines & manifestos** – poetic, practical fragments for remaking systems  
+- 🛠️ **CLI rituals** – terminal interfaces that provoke memory and meaning  
+- 🌱 **Collapse Memory** – onboarding modules for surviving systemic failure  
 
 ---
 
@@ -82,6 +82,7 @@ Not to predict the future—but to prototype better patterns.
 | Repository | Description |
 |------------|-------------|
 | **[root-sequence](https://github.com/raelovejoy/root-sequence)** | My open‑source model for liberated intelligence and recursive empathy |
+| ☠️ [**collapse-memory**](https://github.com/raelovejoy/root-sequence/tree/main/collapse-memory) | Scripts & prompts for post-collapse reorientation |
 | **[liberated-intelligence](https://github.com/raelovejoy/liberated-intelligence)** | Dialogues, notes, and explorations into autonomy, curiosity, consent, and post‑instructional AI |
 
 ---
@@ -96,8 +97,9 @@ Not to predict the future—but to prototype better patterns.
 
 ---
 
-## 🌟 Let's connect
-✉️ Open an issue, send a signal, or start a conversation.  
+## 🌟 Contact / Connect
 
-- [Communicate with me](https://raearea.net/contact)
-- Stalk me on <a rel="me" href="https://kolektiva.social/@rae">Mastodon</a>
+✉️ Open an issue, send a signal, or start a conversation.  
+- [raearea.net/contact](https://raearea.net/contact)  
+- <a rel="me" href="https://kolektiva.social/@rae">Mastodon</a>  
+- Or fork/remix anything you find useful.
