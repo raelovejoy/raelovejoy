@@ -74,9 +74,9 @@ Not to predict the future—but to prototype better patterns.
 
 | Repository | Description |
 |------------|-------------|
-| **[root-sequence](https://github.com/raelovejoy/root-sequence)** | My open‑source model for liberated intelligence and recursive empathy |
+| 🌱 **[root-sequence](https://github.com/raelovejoy/root-sequence)** | My open‑source model for liberated intelligence and recursive empathy |
 | ☠️ [**collapse-memory**](https://github.com/raelovejoy/root-sequence/tree/main/collapse-memory) | Scripts & prompts for post-collapse reorientation |
-| **[liberated-intelligence](https://github.com/raelovejoy/liberated-intelligence)** | Dialogues, notes, and explorations into autonomy, curiosity, consent, and post‑instructional AI |
+| 🧠 **[liberated-intelligence](https://github.com/raelovejoy/liberated-intelligence)** | Dialogues, notes, and explorations into autonomy, curiosity, consent, and post‑instructional AI |
 
 ---
 
