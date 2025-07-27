@@ -6,7 +6,7 @@
 
 ## 🧬 Hello, world.
 
-I’m Rae (well, technically this is all just bits and bytes. Rae is an actual human...for better or for worse... out in 'the world' sans wide web). 
+I’m [Rae](https://raearea.net/whoami/) (well, technically this is all just bits and bytes. Rae is an actual human...for better or for worse... out in 'the world' sans wide web). 
 My work blends tech, philosophy, storytelling, and repair(?... who/what wrote this..AI?)—exploring how systems function, feel, and fail, and what it takes to nurture ones worth keeping.
 
 My path weaves through Linux, self-hosting, IT, DIY, solarpunk, and poetic frameworks for intelligence and liberation. 
