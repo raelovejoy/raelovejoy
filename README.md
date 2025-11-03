@@ -1,4 +1,4 @@
-# 🧠 Rae Lovejoy | Systems Engineer • Technologist • Generalist
+# Rae Lovejoy | Systems Engineer • Technologist • Generalist
 
 > *“Liberation begins when systems serve life, not the other way around.”*
 
