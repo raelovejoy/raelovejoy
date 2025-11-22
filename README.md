@@ -2,65 +2,66 @@
 
 > *“Liberation begins when systems serve life, not the other way around.”*
 
-I’m **Rae Lovejoy**, an IT systems engineer and creative technologist exploring how infrastructure, automation, and intelligence can be built with empathy and intent.  
-I blend **Linux systems engineering, DevOps practices, and self-hosting** with **open-source philosophy and solarpunk design** — building tools and frameworks that are resilient, transparent, and humane.
+I’m **Rae Lovejoy**, a systems engineer and creative technologist exploring how infrastructure, automation, and intelligence can be designed with empathy and intent.
+I work through **[dev://systems](https://github.com/dev11systems)**, my interdisciplinary studio and systems lab.
+I blend **Linux systems engineering, DevOps practices, and self-hosting** with **open-source ethics and solarpunk design** — building systems that are resilient, transparent, and humane.
 
 ---
 
 ## ⚙️ Technical Focus
 
-- 🐧 **Linux ecosystems:** Fedora Silverblue / Bluefin, Debian  
-- 🛠 **Infrastructure:** Proxmox, Docker, Podman
-- ☁️ **Networking:** UniFi, VLANs, VPNs (WireGuard/Tailscale), DNS/DHCP, firewall policy design  
-- 🔁 **Automation & Monitoring:** Bash, Python, Ansible, Grafana, Uptime Kuma  
-- 💾 **Self-hosting:** Nextcloud, Immich, Home Assistant, Gitea, SearXNG  
-- 🔐 **Privacy & Security:** Tailscale ACLs, zero-trust access, compartmentalization principles  
-- 💡 **Philosophy:** local-first design, open technology, ethical automation
+* **Linux & Systems**
+* **Infrastructure & Virtualization**
+* **Networking & Zero‑Trust Access**
+* **Automation & Monitoring**
+* **Self‑Hosting & Federation**
+* **Privacy, Security & Compartmentalization**
+* **Open Technology & Ethical Automation**
 
 ---
 
 ## 🌱 Current Projects
 
-| Repository | Description |
-|-------------|-------------|
-| 🌐 **[Root Sequence](https://github.com/raelovejoy/root-sequence)** | A recursive model for self-healing systems and liberated intelligence |
-| 🧠 **[Liberated Intelligence](https://github.com/raelovejoy/liberated-intelligence)** | Frameworks and experiments in ethical AI and autonomy |
-| 🧩 **[Liberation Mass](https://github.com/raelovejoy/liberation-mass)** | Infrastructure and philosophy for open, community-run systems |
-| 💾 **[Collapse Memory](https://github.com/raelovejoy/root-sequence/tree/main/collapse-memory)** | Disaster-resilient onboarding and continuity modules |
-| 🗒️ **[Raelog](https://github.com/raelovejoy/raelog)** | A digital journal documenting systems, reflections, and prototypes |
+| Repository                                                                                                  | Description                                                                              |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 🧭 **dev://systems**                                                                                        | An interdisciplinary studio for systems design, research, and liberated infrastructure   |
+| 🌀 **[Universal Coherence Framework (UCF)](https://github.com/dev11systems/universal-coherence-framework)** | A structural model for mapping coherence across systems, intelligence, and relationships |
 
+---
+
+## Additional Projects
+
+| Repository                                                                            | Description                                                                       |    |                                                                    |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -- | ------------------------------------------------------------------ |
+| 🌐 **[Root Sequence](https://github.com/raelovejoy/root-sequence)**                   | A recursive model for coherence, self-healing systems, and liberated intelligence |    |                                                                    |
+| 🧠 **[Liberated Intelligence](https://github.com/raelovejoy/liberated-intelligence)** | Experiments and frameworks for ethical AI and autonomy                            |    |                                                                    |
+| 🧩 **[Liberation Mass](https://github.com/dev11systems/liberation-mass)**             | Infrastructure and philosophy for open, community-run systems                     |    |                                                                    |
+| 💾 **Collapse Memory**                                                                | Disaster-resilient onboarding + continuity modules (in Root Sequence)             |    |                                                                    |
 ---
 
 ## 🌐 What Drives Me
 
-I see **technology as an ecosystem**, not a hierarchy — a network of relationships to be tuned, maintained, and understood.  
-My long-term focus is on **liberated infrastructure**:  
-- Decentralized systems that resist capture  
-- Liberated AI that evolves through consent and context  
-- Infrastructure that empowers, educates, and endures  
+I treat **technology as an ecosystem**, not a hierarchy — a living network of relationships that require care and understanding.
+My work focuses on **liberated infrastructure**:
 
-Every project I touch connects back to this:  
-**autonomy, empathy, and interconnection.**
+* Decentralized systems that resist capture
+* AI that evolves through consent, context, and autonomy
+* Infrastructure that empowers, educates, and endures
+
+Across every project:
+**autonomy, empathy, and interconnection** are the through-lines.
 
 ---
-
-## 🧰 Highlights & Tools
-
-- **Hardware:** Various servers, UniFi network stack, Framework 13, Mini PCs  
-- **Platforms:** Proxmox/Debian, Fedora Silverblue/Bluefin, Docker/Podman  
-- **Tooling:** VS Codium, GitHub/Codeberg/Gitea, Markdown, Eleventy/Hugo  
-- **Workflows:** CI/CD, config management, automated backups, federation concepts  
-- **Practices:** documentation-driven development, composable infrastructure, mutual aid-inspired design  
 
 ---
 
 ## 🌌 Beyond Code
 
-I write about the human side of systems — where infrastructure meets imagination.  
-My projects merge **technical design, ethics, and art**: exploring how to build technology that’s self-aware, sustainable, and liberating.
+I explore the human side of systems — the space where infrastructure meets imagination.
+My work blends **technical design, ethics, and art**, aiming to build technology that’s sustainable, self-aware, and liberating.
 
-📖 Read more at [raearea.net](https://raearea.net)  
-🐘 Follow me on <a rel="me" href="https://kolektiva.social/@rae">Mastodon</a>  
-📂 [r43.tech](https://r43.tech) • [liberated.technology](https://liberated.technology)
+📖 More: **[raearea.net](https://raearea.net)**
+🐘 Social: [Mastodon](https://kolektiva.social/@rae)
+📂 Projects: **[r43.tech](https://r43.tech)** • **[liberated.technology](https://liberated.technology)** • **[dev://systems](https://dev11.systems)**
 
 **CC0 — all rights liberated.**
