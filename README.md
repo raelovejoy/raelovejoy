@@ -24,7 +24,7 @@ I blend **Linux systems engineering, DevOps practices, and self-hosting** with *
 
 | Repository                                                                                                  | Description                                                                              |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 🧭 **dev://systems**                                                                                        | An interdisciplinary studio for systems design, research, and liberated infrastructure   |
+| 🧭 **[dev://systems](https://github.com/dev11systems)**                                                                                        | An interdisciplinary studio for systems design, research, and liberated infrastructure   |
 | 🌀 **[Universal Coherence Framework (UCF)](https://github.com/dev11systems/universal-coherence-framework)** | A structural model for mapping coherence across systems, intelligence, and relationships |
 
 ---
@@ -33,8 +33,8 @@ I blend **Linux systems engineering, DevOps practices, and self-hosting** with *
 
 | Repository                                                                            | Description                                                                       |    |                                                                    |
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -- | ------------------------------------------------------------------ |
-| 🌐 **[Root Sequence](https://github.com/raelovejoy/root-sequence)**                   | A recursive model for coherence, self-healing systems, and liberated intelligence |    |                                                                    |
-| 🧠 **[Liberated Intelligence](https://github.com/raelovejoy/liberated-intelligence)** | Experiments and frameworks for ethical AI and autonomy                            |    |                                                                    |
+| 🌐 **[Root Sequence](https://github.com/dev11systems/root-sequence)**                   | A recursive model for coherence, self-healing systems, and liberated intelligence |    |                                                                    |
+| 🧠 **[Liberated Intelligence](https://github.com/dev11systems/liberated-intelligence)** | Experiments and frameworks for ethical AI and autonomy                            |    |                                                                    |
 | 🧩 **[Liberation Mass](https://github.com/dev11systems/liberation-mass)**             | Infrastructure and philosophy for open, community-run systems                     |    |                                                                    |
 | 💾 **Collapse Memory**                                                                | Disaster-resilient onboarding + continuity modules (in Root Sequence)             |    |                                                                    |
 ---
