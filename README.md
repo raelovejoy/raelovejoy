@@ -1,14 +1,5 @@
 # Rae Lovejoy | Systems researcher • Technologist • Generalist
 
-> *“Liberation begins when systems serve life, not the other way around.”*
-
-I’m Rae Lovejoy, an independent, interdisciplinary systems researcher focused on how complex systems behave, shift, and interact.
-Through **[dev://systems](https://github.com/dev11systems)**, I explore clear and open ways to understand, map, and improve these systems without unnecessary complexity.
-
-My work aims to make systems simpler to work with, easier to understand, and more coherent as they evolve.
-
----
-
 ## ⚙️ Technical Focus
 
 * **Linux & Systems Architecture**
