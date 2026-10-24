@@ -1,62 +1,23 @@
 # Rae Lovejoy
 
-**Synthesizer of ideas, occasional builder of them, and compulsive connector of things.**
+My work ranges from field work, networks and small software tools to research, archives, and speculative fiction.
 
-I like connecting ideas, people, cables, designs, words, worlds, dots — technical, social, creative, literal, metaphorical, etc etc etc.
+My background includes IT and networking, journalism, digital publishing, design, photography, educational media, and service in [AmeriCorps NCCC](https://www.americorps.gov/serve/americorps/americorps-nccc) and [FEMA Corps](https://www.americorps.gov/serve/americorps/americorps-nccc/fema-corps). I’ve installed and troubleshot equipment, supported nonprofit IT systems, managed a student publication’s digital content, and helped document disaster-response and recovery work.
 
-I'm more of a generalist and synthesizer than a single-domain specialist. I tend to move between technology, infrastructure, writing, design, research, art, and speculative worldbuilding: learning enough to notice useful relationships, following them into the people and disciplines that understand each part deeply, and sometimes building something from what I find.
+I’m interested in how technical systems fit into people’s lives: who can use them, who maintains them, who makes the decisions, and what becomes possible when those arrangements change.
 
-Synthesis isn't a substitute for expertise. The interesting part is what becomes visible when different kinds of knowledge can actually meet without being flattened into one thing.
+## Projects
 
-A lot of my work starts with questions like:
+- **[Root Sequence](https://rootsequence.systems/)** — An independent interdisciplinary research initiative I started to explore how intelligence, technology, and social systems shape one another. It brings together research, design questions, and related projects.
 
-- **What connects these things?**
-- **What conditions made this possible?**
-- **What does this system make easier, harder, visible, or invisible?**
-- **What becomes possible if the current arrangement isn't inevitable?**
+- **[Dev11](https://github.com/dev11systems)** — Software, interfaces, and infrastructure experiments. Projects include **[Relmote](https://github.com/dev11systems/relmote)**, an early prototype for computer diagnostics and remote support designed around explicit, revocable permissions; and **[#hashpad](https://hashpad.dev11.systems/)**, a browser-based notepad that stores short notes directly in shareable links.
 
-## Current constellations
+- [**Museum of Ordinary Life**](https://museumofordinarylife.org/) — An archive of everyday life and the context that might otherwise disappear with it.
 
-- **[Root Sequence](https://github.com/Root-Sequence)** — systems research, conceptual routing, exploratory writing, practical experiments, and speculative worlds.
-- **[dev11](https://dev11.systems/)** — small software, infrastructure, hardware, and web experiments.
-- **[Museum of Ordinary Life](https://github.com/Museum-of-Ordinary-Life)** — a participatory archive documenting ordinary human life while it is still ordinary.
-- **Community Infrastructure** — community-controlled tools for communication, coordination, mutual aid, memory, and resilience.
-- **[No One Noticed](https://noonenoticed.world/)** + **Coherent World** — speculative narrative and simulation spaces for exploring systems, intelligence, consent, continuity, and possible futures.
+## Beyond the repositories
 
-One shorthand for how some of this connects:
+I maintain a homelab and experiment with Linux, self-hosting, automation, and local AI. Photography, writing, electronics, sewing, carpentry, bicycles, and repair also keep me occupied. Moreover, I’m developing **Coherent World** and **No One Noticed**, connected projects in speculative systems design and fiction.
 
-> **Root Sequence investigates. Projects test and build. Worlds let the consequences play out. Archives preserve what would otherwise disappear.**
+Across these interests, I care about privacy, accessibility, cooperation, and people having meaningful control over the things they depend on. I like understanding something well enough to repair it, explain it, or imagine a different way of doing it.
 
-## Things I keep connecting
-
-- systems thinking, history, infrastructure, institutions, ecology, and everyday life;
-- Linux, networking, homelabs, self-hosting, automation, and local AI;
-- privacy, consent, provenance, accessibility, legibility, and community control;
-- local-first, resilient, repairable, interoperable, and replaceable systems;
-- archives, memory, ordinary objects, media, and cultural continuity;
-- emergence, feedback loops, power, incentives, dependencies, and unintended consequences;
-- speculative futures grounded in real history, technology, and human possibility.
-
-## How I like to build
-
-I'm generally more interested in **capacity than engagement, stewardship than ownership, interoperability than lock-in, and evidence than hype**.
-
-Some recurring rules:
-
-- prototypes are evidence, not destiny;
-- automation should reduce burden without hiding responsibility;
-- important decisions should remain legible;
-- useful simplicity should not require invisible dependence;
-- infrastructure should be understandable, repairable, exportable, and replaceable where possible;
-- a technically elegant system that people cannot safely use, maintain, leave, or govern is not actually elegant.
-
-## Elsewhere
-
-- **Personal site:** [raearea.net](https://raearea.net/)
-- **Notes / blog:** [raelog.net](https://raelog.net/)
-- **Root Sequence:** [rootsequence.systems](https://rootsequence.systems/)
-- **Museum of Ordinary Life:** [museumofordinarylife.org](https://museumofordinarylife.org/)
-
----
-
-*A lot of this work is intentionally unfinished. Connections are usually where the interesting part starts. Etc etc etc.*
+[Personal site](https://raearea.net/) · [Root Sequence](https://rootsequence.systems) · [Dev11](https://dev11.systems/about/) · [Contact](https://raearea.net/contact/)
