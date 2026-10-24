@@ -1,6 +1,6 @@
 # Rae Lovejoy
 
-Bio: [/whoami](https://raelog.net/whoami)
+Bio: [/whoami](https://raearea.net/whoami)
 
 ## Projects
 
