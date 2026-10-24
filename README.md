@@ -6,7 +6,7 @@ Bio: [/whoami](https://raearea.net/whoami)
 
 - **[Root Sequence](https://rootsequence.systems/)** — An independent interdisciplinary research initiative I started to explore how intelligence, technology, and social systems shape one another. It brings together research, design questions, and related projects.
 
-- **[Dev11](https://github.com/dev11systems)** — Software, interfaces, and infrastructure experiments. Projects include **[Relmote](https://github.com/dev11systems/relmote)**, an early prototype for computer diagnostics and remote support designed around explicit, revocable permissions; and **[#hashpad](https://hashpad.dev11.systems/)**, a browser-based notepad that stores short notes directly in shareable links.
+- **[Dev11](https://github.com/dev11systems)** — Software, hardware, interfaces, and infrastructure experiments. Projects include **[Relmote](https://github.com/dev11systems/relmote)**, an early prototype for computer diagnostics and remote support designed around explicit, revocable permissions; and **[#hashpad](https://hashpad.dev11.systems/)**, a browser-based notepad that stores short notes directly in shareable links.
 
 - [**Museum of Ordinary Life**](https://museumofordinarylife.org/) — An archive of everyday life and the context that might otherwise disappear with it.
 
