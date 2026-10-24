@@ -1,10 +1,6 @@
 # Rae Lovejoy
 
-My work ranges from field work, networks and small software tools to research, archives, and speculative fiction.
-
-My background includes IT and networking, journalism, digital publishing, design, photography, educational media, and service in [AmeriCorps NCCC](https://www.americorps.gov/serve/americorps/americorps-nccc) and [FEMA Corps](https://www.americorps.gov/serve/americorps/americorps-nccc/fema-corps). I’ve installed and troubleshot equipment, supported nonprofit IT systems, managed a student publication’s digital content, and helped document disaster-response and recovery work.
-
-I’m interested in how technical systems fit into people’s lives: who can use them, who maintains them, who makes the decisions, and what becomes possible when those arrangements change.
+Bio: [/whoami](https://raelog.net/whoami)
 
 ## Projects
 
